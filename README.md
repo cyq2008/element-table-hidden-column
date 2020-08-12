@@ -1,5 +1,5 @@
 # eltable
-![img](https://github.com/cyq2008/element-table-hidden-column/blob/master/img/table.gif)
+![img](img/table.gif)
 ## Project setup
 ```
 npm install
