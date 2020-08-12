@@ -1,5 +1,5 @@
 # eltable
-![img](./img/table.gif)
+![img](/img/table.gif)
 ## Project setup
 ```
 npm install
